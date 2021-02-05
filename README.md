@@ -1,3 +1,5 @@
 # Counter with tab
 
-![GIF](src/assets/img/gif.gif)
+<p align="center">
+  <img src="src/assets/img/gif.gif" />
+</p>
